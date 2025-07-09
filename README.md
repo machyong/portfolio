@@ -1,14 +1,13 @@
 # 이한용
-------  
 Tel.        010-9892-2765  
 E-mail.  lhybio07@naver.com
-
-# INTRO
 ---
+# INTRO
+
 >
 
 ## 📂[노션 포트폴리오](https://incongruous-beechnut-147.notion.site/172db0a7dd18804ba13ce5275575179a)
-
+---
 # 프로젝트 요약
 ***
 ## 나만의 Jarvis
