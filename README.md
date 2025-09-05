@@ -48,3 +48,16 @@
 > ##### 요약
 >- 박물관의 도슨트의 서비스 불균형과 야간 경비 사각지대를 보안하기 위해 시작한 프로젝트(터틀봇 4 사용)
 >- Github: https://github.com/ROKEY-LearnedFromDoosan/GuardingRobot
+
+---
+## 강화학습을 통한 자율주차
+[![강화학습을 통한 자율주차 학습결과](https://img.youtube.com/vi/zjEXBvHMCus/0.jpg)](https://www.youtube.com/watch?v=zjEXBvHMCus)
+
+> ##### 소개
+>- 개발기간 : 2025.07.30 ~ 2025.07.04
+>- 핵심 역할 : DQN을 통한 강화학습 코드 작성
+>- 사용 기술 : : ROS 2, Python, DQN, tensorflow, OpenCV
+
+> ##### 요약
+>- 라이더를 사용하지 않는 자율주차 알고리즘을 강화학습으로 구현하여, 실제 차량 주차 시나리오에 가까운 환경에서 자율 주차 프로그램 개발
+>- Github: https://github.com/machyong/auto_parking
